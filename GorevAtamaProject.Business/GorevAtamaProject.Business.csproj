@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Abstract\" />
-    <Folder Include="Concrete\" />
+    <ProjectReference Include="..\GorevAtamaProject.Data\GorevAtamaProject.Data.csproj" />
+    <ProjectReference Include="..\GorevAtamaProject.Entity\GorevAtamaProject.Entity.csproj" />
   </ItemGroup>
 
 </Project>
