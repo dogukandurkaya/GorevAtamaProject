@@ -1,0 +1,210 @@
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\appsettings.json
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.exe
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.deps.json
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.runtimeconfig.json
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.runtimeconfig.dev.json
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.pdb
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.Views.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.Views.pdb
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.Data.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.Entity.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.Data.pdb
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.Entity.pdb
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.csproj.AssemblyReference.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.AssemblyInfoInputs.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.AssemblyInfo.cs
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.RazorAssemblyInfo.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.RazorAssemblyInfo.cs
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\scopedcss\bundle\GorevAtamaProject.WebUI.styles.css
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\staticwebassets\GorevAtamaProject.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.TagHelpers.input.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.TagHelpers.output.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.RazorCoreGenerate.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.Views.pdb
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.csproj.CopyComplete
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\refint\GorevAtamaProject.WebUI.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.pdb
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.genruntimeconfig.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\ref\GorevAtamaProject.WebUI.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\appsettings.json
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.exe
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.deps.json
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.runtimeconfig.json
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.runtimeconfig.dev.json
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\ref\GorevAtamaProject.WebUI.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.pdb
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.Views.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.Views.pdb
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.Data.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.Entity.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.Data.pdb
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.Entity.pdb
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.csproj.AssemblyReference.cache
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.AssemblyInfoInputs.cache
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.AssemblyInfo.cs
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.RazorAssemblyInfo.cache
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.RazorAssemblyInfo.cs
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\staticwebassets\GorevAtamaProject.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\staticwebassets\GorevAtamaProject.WebUI.StaticWebAssets.xml
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\scopedcss\bundle\GorevAtamaProject.WebUI.styles.css
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.TagHelpers.input.cache
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.TagHelpers.output.cache
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.RazorCoreGenerate.cache
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.Views.pdb
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.csproj.CopyComplete
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\ref\GorevAtamaProject.WebUI.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.pdb
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.genruntimeconfig.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\appsettings.json
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.StaticWebAssets.xml
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.exe
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.deps.json
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.runtimeconfig.json
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.runtimeconfig.dev.json
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.pdb
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.Views.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.Views.pdb
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.Data.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.Entity.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.Data.pdb
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.Entity.pdb
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.csproj.AssemblyReference.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.AssemblyInfoInputs.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.AssemblyInfo.cs
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.RazorAssemblyInfo.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.RazorAssemblyInfo.cs
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\scopedcss\bundle\GorevAtamaProject.WebUI.styles.css
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\staticwebassets\GorevAtamaProject.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.TagHelpers.input.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.TagHelpers.output.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.RazorCoreGenerate.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.Views.pdb
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.csproj.CopyComplete
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\refint\GorevAtamaProject.WebUI.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.pdb
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.genruntimeconfig.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.WebUI\obj\Debug\net5.0\ref\GorevAtamaProject.WebUI.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\bin\Debug\net5.0\GorevAtamaProject.WebUI.StaticWebAssets.xml

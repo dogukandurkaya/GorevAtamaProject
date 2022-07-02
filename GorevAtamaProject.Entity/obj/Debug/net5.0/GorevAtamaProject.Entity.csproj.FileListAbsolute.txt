@@ -1,0 +1,36 @@
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.Entity\bin\Debug\net5.0\GorevAtamaProject.Entity.deps.json
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.Entity\bin\Debug\net5.0\GorevAtamaProject.Entity.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.Entity\bin\Debug\net5.0\GorevAtamaProject.Entity.pdb
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.Entity\obj\Debug\net5.0\GorevAtamaProject.Entity.csproj.AssemblyReference.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.Entity\obj\Debug\net5.0\GorevAtamaProject.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.Entity\obj\Debug\net5.0\GorevAtamaProject.Entity.AssemblyInfoInputs.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.Entity\obj\Debug\net5.0\GorevAtamaProject.Entity.AssemblyInfo.cs
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.Entity\obj\Debug\net5.0\GorevAtamaProject.Entity.csproj.CoreCompileInputs.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.Entity\obj\Debug\net5.0\GorevAtamaProject.Entity.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.Entity\obj\Debug\net5.0\refint\GorevAtamaProject.Entity.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.Entity\obj\Debug\net5.0\GorevAtamaProject.Entity.pdb
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.Entity\obj\Debug\net5.0\ref\GorevAtamaProject.Entity.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.Entity\bin\Debug\net5.0\GorevAtamaProject.Entity.deps.json
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.Entity\bin\Debug\net5.0\GorevAtamaProject.Entity.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.Entity\bin\Debug\net5.0\ref\GorevAtamaProject.Entity.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.Entity\bin\Debug\net5.0\GorevAtamaProject.Entity.pdb
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.Entity\obj\Debug\net5.0\GorevAtamaProject.Entity.csproj.AssemblyReference.cache
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.Entity\obj\Debug\net5.0\GorevAtamaProject.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.Entity\obj\Debug\net5.0\GorevAtamaProject.Entity.AssemblyInfoInputs.cache
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.Entity\obj\Debug\net5.0\GorevAtamaProject.Entity.AssemblyInfo.cs
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.Entity\obj\Debug\net5.0\GorevAtamaProject.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.Entity\obj\Debug\net5.0\GorevAtamaProject.Entity.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.Entity\obj\Debug\net5.0\ref\GorevAtamaProject.Entity.dll
+C:\Users\Engin Niyazi Ergül\Desktop\GorevAtamaProject-main\GorevAtamaProject.Entity\obj\Debug\net5.0\GorevAtamaProject.Entity.pdb
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.Entity\bin\Debug\net5.0\GorevAtamaProject.Entity.deps.json
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.Entity\bin\Debug\net5.0\GorevAtamaProject.Entity.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.Entity\bin\Debug\net5.0\GorevAtamaProject.Entity.pdb
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.Entity\obj\Debug\net5.0\GorevAtamaProject.Entity.csproj.AssemblyReference.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.Entity\obj\Debug\net5.0\GorevAtamaProject.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.Entity\obj\Debug\net5.0\GorevAtamaProject.Entity.AssemblyInfoInputs.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.Entity\obj\Debug\net5.0\GorevAtamaProject.Entity.AssemblyInfo.cs
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.Entity\obj\Debug\net5.0\GorevAtamaProject.Entity.csproj.CoreCompileInputs.cache
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.Entity\obj\Debug\net5.0\GorevAtamaProject.Entity.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.Entity\obj\Debug\net5.0\refint\GorevAtamaProject.Entity.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.Entity\obj\Debug\net5.0\GorevAtamaProject.Entity.pdb
+C:\Users\PATRON\Desktop\GorevAtamaProject-main\GorevAtamaProject-main\GorevAtamaProject.Entity\obj\Debug\net5.0\ref\GorevAtamaProject.Entity.dll
