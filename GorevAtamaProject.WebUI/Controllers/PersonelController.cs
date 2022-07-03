@@ -39,6 +39,12 @@ namespace GorevAtamaProject.WebUI.Controllers
             return RedirectToAction("PersonelList", "Personel");
         }
 
+        public IActionResult PersonelDuzenle(int id)
+        {
+            var values = _personelService.GetById(id);
+            return View(values);
+        }
+
         public IActionResult PersonelSil(int id)
         {
             var entity = _personelService.GetById(id);

@@ -71,3 +71,4 @@ C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5
 C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.pdb
 C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.genruntimeconfig.cache
 C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\ref\GorevAtamaProject.WebUI.dll
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\Razor\Views\Personel\PersonelDuzenle.cshtml.g.cs
