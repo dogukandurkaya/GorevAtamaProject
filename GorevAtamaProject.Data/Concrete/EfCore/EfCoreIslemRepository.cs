@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace GorevAtamaProject.Data.Concrete.EfCore
 {
-    public class EfCoreIslemRepository : EfCoreGenericRepository<Islem>, IIslemRepository
+    public class EfCoreIslemRepository : EfCoreGenericRepository<Islem, GorevAtamaProjectContext>, IIslemRepository
     {
 
     }

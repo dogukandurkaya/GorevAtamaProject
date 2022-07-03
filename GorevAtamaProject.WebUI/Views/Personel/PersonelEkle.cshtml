@@ -1,0 +1,18 @@
+﻿@model GorevAtamaProject.Entity.Personel
+
+<form asp-controller="Personel" asp-action="PersonelEKle" method="post">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group mb-2">
+                <label>Ad</label>
+                <input type="text" class="form-control" name="PersonelAd" />
+            </div>
+
+            <div class="form-group mb-2">
+                <label>Soyad</label>
+                <input type="text" class="form-control" name="PersonelSoyad" />
+            </div>
+            <button type="submit" class="btn btn-primary">Kaydet</button>
+        </div>
+    </div>
+</form>

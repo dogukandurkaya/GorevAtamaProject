@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace GorevAtamaProject.Data.Concrete.EfCore
 {
-    public class EfCorePersonelRepository : EfCoreGenericRepository<Personel>, IPersonelRepository
+    public class EfCorePersonelRepository : EfCoreGenericRepository<Personel, GorevAtamaProjectContext>, IPersonelRepository
     {
 
     }

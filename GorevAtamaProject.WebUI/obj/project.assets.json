@@ -403,6 +403,20 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
+      "GorevAtamaProject.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "GorevAtamaProject.Data": "1.0.0",
+          "GorevAtamaProject.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GorevAtamaProject.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GorevAtamaProject.Business.dll": {}
+        }
+      },
       "GorevAtamaProject.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -1126,6 +1140,11 @@
         "version.txt"
       ]
     },
+    "GorevAtamaProject.Business/1.0.0": {
+      "type": "project",
+      "path": "../GorevAtamaProject.Business/GorevAtamaProject.Business.csproj",
+      "msbuildProject": "../GorevAtamaProject.Business/GorevAtamaProject.Business.csproj"
+    },
     "GorevAtamaProject.Data/1.0.0": {
       "type": "project",
       "path": "../GorevAtamaProject.Data/GorevAtamaProject.Data.csproj",
@@ -1139,6 +1158,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "GorevAtamaProject.Business >= 1.0.0",
       "GorevAtamaProject.Data >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 5.0.16",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.16",
@@ -1173,6 +1193,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Business\\GorevAtamaProject.Business.csproj": {
+              "projectPath": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Business\\GorevAtamaProject.Business.csproj"
+            },
             "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Data\\GorevAtamaProject.Data.csproj": {
               "projectPath": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Data\\GorevAtamaProject.Data.csproj"
             }

@@ -1,3 +1,6 @@
+using GorevAtamaProject.Business.Abstract;
+using GorevAtamaProject.Business.Concrete;
+using GorevAtamaProject.Data.Abstract;
 using GorevAtamaProject.Data.Concrete.EfCore;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -25,6 +28,8 @@ namespace GorevAtamaProject.WebUI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddScoped<IPersonelRepository, EfCorePersonelRepository>();
+            services.AddScoped<IPersonelService, PersonelManager>();
             //services.AddDbContext<GorevAtamaProjectContext>(options => options.UseSqlite("Data Source=GorevAtamaProjectDb"));
             services.AddControllersWithViews();
         }

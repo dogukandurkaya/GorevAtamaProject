@@ -19,27 +19,27 @@ namespace GorevAtamaProject.Business.Concrete
         }
         public void Create(Personel entity)
         {
-            throw new NotImplementedException();
+            _personelRepository.Create(entity);
         }
 
         public void Delete(Personel entity)
         {
-            throw new NotImplementedException();
+            _personelRepository.Delete(entity);
         }
 
         public List<Personel> GetAll()
         {
-            throw new NotImplementedException();
+            return _personelRepository.GetAll();
         }
 
         public Personel GetById(int id)
         {
-            throw new NotImplementedException();
+            return _personelRepository.GetById(id);
         }
 
         public void Update(Personel entity)
         {
-            throw new NotImplementedException();
+            _personelRepository.Update(entity);
         }
     }
 }

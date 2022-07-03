@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace GorevAtamaProject.Data.Concrete.EfCore
 {
-    public class EfCoreRolRepository : EfCoreGenericRepository<Rol>, IRolRepository
+    public class EfCoreRolRepository : EfCoreGenericRepository<Rol, GorevAtamaProjectContext>, IRolRepository
     {
 
     }
