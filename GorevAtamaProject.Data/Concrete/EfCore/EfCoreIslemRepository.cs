@@ -10,6 +10,9 @@ namespace GorevAtamaProject.Data.Concrete.EfCore
 {
     public class EfCoreIslemRepository : EfCoreGenericRepository<Islem, GorevAtamaProjectContext>, IIslemRepository
     {
-
+        public List<Islem> GetListAll()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

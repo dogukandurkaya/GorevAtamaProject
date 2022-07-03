@@ -29,7 +29,9 @@ namespace GorevAtamaProject.WebUI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddScoped<IPersonelRepository, EfCorePersonelRepository>();
+            services.AddScoped<IIslemRepository, EfCoreIslemRepository>();
             services.AddScoped<IPersonelService, PersonelManager>();
+            services.AddScoped<IIslemService, IslemManager>();
             //services.AddDbContext<GorevAtamaProjectContext>(options => options.UseSqlite("Data Source=GorevAtamaProjectDb"));
             services.AddControllersWithViews();
         }

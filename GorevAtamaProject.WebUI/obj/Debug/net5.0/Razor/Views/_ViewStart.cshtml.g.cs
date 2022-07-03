@@ -19,8 +19,22 @@ using GorevAtamaProject.WebUI;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\Views\_ViewImports.cshtml"
+using GorevAtamaProject.WebUI.Models;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 3 "C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\Views\_ViewImports.cshtml"
+using GorevAtamaProject.Entity;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f400a24e4f1c1f8dbc87c0f761266a45e781e06b", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d8ada15fc2390b57eb9ff7cf570b876a0ec8f59a", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b5cb400cb4595d19e2e7a9cee6a22114e28b3ff9", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable

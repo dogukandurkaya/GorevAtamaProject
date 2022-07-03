@@ -19,8 +19,22 @@ using GorevAtamaProject.WebUI;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\Views\_ViewImports.cshtml"
+using GorevAtamaProject.WebUI.Models;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 3 "C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\Views\_ViewImports.cshtml"
+using GorevAtamaProject.Entity;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d27f284b5a8f4a2af081502b2ab1ea2b7e6378c9", @"/Views/Personel/PersonelList.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d8ada15fc2390b57eb9ff7cf570b876a0ec8f59a", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b5cb400cb4595d19e2e7a9cee6a22114e28b3ff9", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Personel_PersonelList : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<List<GorevAtamaProject.Entity.Personel>>
     #nullable disable
@@ -57,7 +71,7 @@ using GorevAtamaProject.WebUI;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d27f284b5a8f4a2af081502b2ab1ea2b7e6378c95365", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d27f284b5a8f4a2af081502b2ab1ea2b7e6378c95781", async() => {
                 WriteLiteral("Personel Ekle");
             }
             );
@@ -117,7 +131,7 @@ using GorevAtamaProject.WebUI;
 #line hidden
 #nullable disable
             WriteLiteral("</td>\r\n           <td>");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d27f284b5a8f4a2af081502b2ab1ea2b7e6378c98419", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d27f284b5a8f4a2af081502b2ab1ea2b7e6378c98835", async() => {
                 WriteLiteral("Düzenle");
             }
             );
@@ -151,7 +165,7 @@ using GorevAtamaProject.WebUI;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("</td>\r\n           <td>");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d27f284b5a8f4a2af081502b2ab1ea2b7e6378c910918", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d27f284b5a8f4a2af081502b2ab1ea2b7e6378c911334", async() => {
                 WriteLiteral("Sil");
             }
             );

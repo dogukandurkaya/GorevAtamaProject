@@ -9,6 +9,6 @@ namespace GorevAtamaProject.Data.Abstract
 {
     public interface IIslemRepository : IRepository<Islem>
     {
-
+        List<Islem> GetListAll();
     }
 }

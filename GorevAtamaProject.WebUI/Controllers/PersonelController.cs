@@ -2,17 +2,22 @@
 using GorevAtamaProject.Data.Concrete.EfCore;
 using GorevAtamaProject.Entity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace GorevAtamaProject.WebUI.Controllers
 {
     public class PersonelController : Controller
     {
         private IPersonelService _personelService;
+        private IIslemService _ıslemService;
 
-        public PersonelController(IPersonelService personelService)
+        public PersonelController(IPersonelService personelService, IIslemService ıslemService)
         {
             _personelService = personelService;
+            _ıslemService = ıslemService;
         }
 
         public IActionResult Index()
@@ -44,6 +49,13 @@ namespace GorevAtamaProject.WebUI.Controllers
 
         public IActionResult PersonelDuzenle(int id)
         {
+            List<SelectListItem> values1 = (from x in _ıslemService.GetAll()
+                                            select new SelectListItem
+                                            {
+                                                Text = x.IslemAd,
+                                                Value = x.IslemID.ToString()
+                                            }).ToList();
+            ViewBag.cv = values1;
             var values = _personelService.GetById(id);
             return View(values);
         }
@@ -54,6 +66,7 @@ namespace GorevAtamaProject.WebUI.Controllers
             var entity = _personelService.GetById(personel.PersonelID);
             entity.PersonelAd = personel.PersonelAd;
             entity.PersonelSoyad = personel.PersonelSoyad;
+            entity.IslemID = personel.IslemID;
             _personelService.Update(entity);
             return RedirectToAction("PersonelList", "Personel");
         }
