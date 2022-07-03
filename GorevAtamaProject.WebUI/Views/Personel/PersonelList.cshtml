@@ -7,6 +7,7 @@
         <th>#</th>
         <th>Ad</th>
         <th>Soyad</th>
+        <th>İşlemID</th>
         <th>Düzenleme</th>
         <th>Silme</th>
     </tr>
@@ -16,8 +17,9 @@
            <td>@item.PersonelID</td>
            <td>@item.PersonelAd</td>
            <td>@item.PersonelSoyad</td>
-           <td><a asp-action="PersonelDuzenle" asp-controller="Personel" class="btn btn-sm btn-warning">Düzenle</a></td>
-           <td><a asp-action="PersonelSil" asp-controller="Personel" class="btn btn-sm btn-danger">Sil</a></td>
+           <td>@item.IslemID</td>
+           <td><a asp-action="PersonelDuzenle"  asp-route-id="@item.PersonelID" asp-controller="Personel" class="btn btn-sm btn-warning">Düzenle</a></td>
+           <td><a asp-action="PersonelSil" asp-route-id="@item.PersonelID" asp-controller="Personel" class="btn btn-sm btn-danger">Sil</a></td>
        </tr>
    }
 </table>
