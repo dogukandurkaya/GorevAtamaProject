@@ -11,6 +11,7 @@ namespace GorevAtamaProject.Business.Abstract
     {
         Personel GetById(int id);
         List<Personel> GetAll();
+        List<Personel> GetListAll();
         void Create(Personel entity);
         void Update(Personel entity);
         void Delete(Personel entity);

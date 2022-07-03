@@ -2,6 +2,7 @@
 using GorevAtamaProject.Data.Concrete.EfCore;
 using GorevAtamaProject.Entity;
 using Microsoft.AspNetCore.Mvc;
+using System;
 
 namespace GorevAtamaProject.WebUI.Controllers
 {
@@ -21,7 +22,7 @@ namespace GorevAtamaProject.WebUI.Controllers
 
         public IActionResult PersonelList()
         {
-            var values = _personelService.GetAll();
+            var values = _personelService.GetListAll();
             return View(values);
         }
 
@@ -33,8 +34,10 @@ namespace GorevAtamaProject.WebUI.Controllers
         [HttpPost]
         public IActionResult PersonelEkle(Personel personel)
         {
-            personel.RolID = 1;
-            personel.IslemID = 1;
+            int rnd1 = new Random().Next(1, 8);
+            personel.RolID = rnd1;
+            int rnd2 = new Random().Next(1, 8);
+            personel.IslemID = rnd2;
             _personelService.Create(personel);
             return RedirectToAction("PersonelList", "Personel");
         }
@@ -60,6 +63,16 @@ namespace GorevAtamaProject.WebUI.Controllers
             var entity = _personelService.GetById(id);
             _personelService.Delete(entity);
             return RedirectToAction("PersonelList", "Personel");
+        }
+
+        public IActionResult PersonelAta(Personel personel)
+        {
+            int rnd = new Random().Next(1, 8);
+            personel.IslemID = rnd;
+            ViewBag.v1 = rnd;
+
+            var values = _personelService.GetListAll();
+            return View(values);
         }
     }
 }

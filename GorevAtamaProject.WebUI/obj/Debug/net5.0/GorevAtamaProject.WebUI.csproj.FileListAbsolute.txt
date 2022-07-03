@@ -56,6 +56,8 @@ C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5
 C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.TagHelpers.output.cache
 C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.RazorCoreGenerate.cache
 C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\Razor\Views\Personel\PersonelAta.cshtml.g.cs
+C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\Razor\Views\Personel\PersonelDuzenle.cshtml.g.cs
 C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\Razor\Views\Personel\PersonelEkle.cshtml.g.cs
 C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\Razor\Views\Personel\PersonelList.cshtml.g.cs
 C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -71,4 +73,3 @@ C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5
 C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.pdb
 C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\GorevAtamaProject.WebUI.genruntimeconfig.cache
 C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\ref\GorevAtamaProject.WebUI.dll
-C:\Users\PATRON\Desktop\GorevAtamaProject\GorevAtamaProject.WebUI\obj\Debug\net5.0\Razor\Views\Personel\PersonelDuzenle.cshtml.g.cs

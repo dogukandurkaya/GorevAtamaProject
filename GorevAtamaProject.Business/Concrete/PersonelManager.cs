@@ -31,6 +31,10 @@ namespace GorevAtamaProject.Business.Concrete
         {
             return _personelRepository.GetAll();
         }
+        public List<Personel> GetListAll()
+        {
+            return _personelRepository.GetListAll();
+        }
 
         public Personel GetById(int id)
         {

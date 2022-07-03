@@ -9,6 +9,6 @@ namespace GorevAtamaProject.Data.Abstract
 {
     public interface IPersonelRepository : IRepository<Personel>
     {
-
+        List<Personel> GetListAll();
     }
 }
