@@ -1,6 +1,6 @@
 ﻿@model List<GorevAtamaProject.Entity.Personel>
 
-<a asp-action="PersonelEkle" asp-controller="Personel" class="btn btn-sm btn-primary mb-1">Personel Ekle</a>
+<a asp-action="PersonelEkle" asp-controller="Personel" class="btn btn-sm btn-primary mb-3">Personel Ekle</a>
    
 <table class="table table-dark">
     <tr>
@@ -18,8 +18,8 @@
            <td>@item.PersonelAd</td>
            <td>@item.PersonelSoyad</td>
            <td>@item.Islem.IslemAd</td>
-           <td><a asp-action="PersonelDuzenle"  asp-route-id="@item.PersonelID" asp-controller="Personel" class="btn btn-sm btn-warning">Düzenle</a></td>
-           <td><a asp-action="PersonelSil" asp-route-id="@item.PersonelID" asp-controller="Personel" class="btn btn-sm btn-danger">Sil</a></td>
+           <td><a asp-action="PersonelDuzenle"  asp-route-id="@item.PersonelID" asp-controller="Personel" class="btn btn-sm btn-warning">Personel Düzenle</a></td>
+           <td><a asp-action="PersonelSil" asp-route-id="@item.PersonelID" asp-controller="Personel" class="btn btn-sm btn-danger">Personel Sil</a></td>
        </tr>
    }
 </table>
