@@ -1172,11 +1172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.WebUI\\GorevAtamaProject.WebUI.csproj",
+      "projectUniqueName": "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.WebUI\\GorevAtamaProject.WebUI.csproj",
       "projectName": "GorevAtamaProject.WebUI",
-      "projectPath": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.WebUI\\GorevAtamaProject.WebUI.csproj",
+      "projectPath": "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.WebUI\\GorevAtamaProject.WebUI.csproj",
       "packagesPath": "C:\\Users\\PATRON\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.WebUI\\obj\\",
+      "outputPath": "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PATRON\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1193,11 +1193,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Business\\GorevAtamaProject.Business.csproj": {
-              "projectPath": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Business\\GorevAtamaProject.Business.csproj"
+            "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Business\\GorevAtamaProject.Business.csproj": {
+              "projectPath": "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Business\\GorevAtamaProject.Business.csproj"
             },
-            "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Data\\GorevAtamaProject.Data.csproj": {
-              "projectPath": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Data\\GorevAtamaProject.Data.csproj"
+            "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Data\\GorevAtamaProject.Data.csproj": {
+              "projectPath": "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Data\\GorevAtamaProject.Data.csproj"
             }
           }
         }

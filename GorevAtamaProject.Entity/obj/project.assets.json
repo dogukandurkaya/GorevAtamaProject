@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Entity\\GorevAtamaProject.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Entity\\GorevAtamaProject.Entity.csproj",
       "projectName": "GorevAtamaProject.Entity",
-      "projectPath": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Entity\\GorevAtamaProject.Entity.csproj",
+      "projectPath": "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Entity\\GorevAtamaProject.Entity.csproj",
       "packagesPath": "C:\\Users\\PATRON\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Entity\\obj\\",
+      "outputPath": "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PATRON\\AppData\\Roaming\\NuGet\\NuGet.Config",

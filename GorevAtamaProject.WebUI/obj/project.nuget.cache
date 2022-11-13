@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yxjpF9bUi4ouvEhymG9PRrw86TcJ99tpw5NR2iUbqgzDVOQJZU6DTFKaOj7HOIi+nNox+2b2wrIIUNDpxkm8wQ==",
+  "dgSpecHash": "YpjczdPuB6EeBfjEpJRcZwVRV0nkOKfmxvSHZz7eespPFfnYk6gfYj3dswY+blL0vR38uQ6zhdwh86+knIcmpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.WebUI\\GorevAtamaProject.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.WebUI\\GorevAtamaProject.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PATRON\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\PATRON\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

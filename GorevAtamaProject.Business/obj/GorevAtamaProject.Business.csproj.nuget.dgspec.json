@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Business\\GorevAtamaProject.Business.csproj": {}
+    "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Business\\GorevAtamaProject.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Business\\GorevAtamaProject.Business.csproj": {
+    "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Business\\GorevAtamaProject.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Business\\GorevAtamaProject.Business.csproj",
+        "projectUniqueName": "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Business\\GorevAtamaProject.Business.csproj",
         "projectName": "GorevAtamaProject.Business",
-        "projectPath": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Business\\GorevAtamaProject.Business.csproj",
+        "projectPath": "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Business\\GorevAtamaProject.Business.csproj",
         "packagesPath": "C:\\Users\\PATRON\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Business\\obj\\",
+        "outputPath": "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PATRON\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Data\\GorevAtamaProject.Data.csproj": {
-                "projectPath": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Data\\GorevAtamaProject.Data.csproj"
+              "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Data\\GorevAtamaProject.Data.csproj": {
+                "projectPath": "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Data\\GorevAtamaProject.Data.csproj"
               },
-              "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Entity\\GorevAtamaProject.Entity.csproj": {
-                "projectPath": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Entity\\GorevAtamaProject.Entity.csproj"
+              "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Entity\\GorevAtamaProject.Entity.csproj": {
+                "projectPath": "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Entity\\GorevAtamaProject.Entity.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Data\\GorevAtamaProject.Data.csproj": {
+    "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Data\\GorevAtamaProject.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Data\\GorevAtamaProject.Data.csproj",
+        "projectUniqueName": "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Data\\GorevAtamaProject.Data.csproj",
         "projectName": "GorevAtamaProject.Data",
-        "projectPath": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Data\\GorevAtamaProject.Data.csproj",
+        "projectPath": "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Data\\GorevAtamaProject.Data.csproj",
         "packagesPath": "C:\\Users\\PATRON\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Data\\obj\\",
+        "outputPath": "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PATRON\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Entity\\GorevAtamaProject.Entity.csproj": {
-                "projectPath": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Entity\\GorevAtamaProject.Entity.csproj"
+              "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Entity\\GorevAtamaProject.Entity.csproj": {
+                "projectPath": "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Entity\\GorevAtamaProject.Entity.csproj"
               }
             }
           }
@@ -139,14 +139,14 @@
         }
       }
     },
-    "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Entity\\GorevAtamaProject.Entity.csproj": {
+    "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Entity\\GorevAtamaProject.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Entity\\GorevAtamaProject.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Entity\\GorevAtamaProject.Entity.csproj",
         "projectName": "GorevAtamaProject.Entity",
-        "projectPath": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Entity\\GorevAtamaProject.Entity.csproj",
+        "projectPath": "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Entity\\GorevAtamaProject.Entity.csproj",
         "packagesPath": "C:\\Users\\PATRON\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Entity\\obj\\",
+        "outputPath": "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PATRON\\AppData\\Roaming\\NuGet\\NuGet.Config",

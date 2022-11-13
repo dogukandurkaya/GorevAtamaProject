@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AY+GOo426fJqlR/1P8IHG0XbA15hyn5/uD4eHPOKdnL5kEwz4KWnSfIEA/Q2Q4vn7TsVlotGuhE54gQD4Ss7xQ==",
+  "dgSpecHash": "8a4yOQrVd9vrFoqRCzm2/0bdsgV6odkLpdvpptivtHOu9KqZ/bagMuu5ZcDAelKwZ2UCe68JkTcMdzzF+FbhPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PATRON\\Desktop\\GorevAtamaProject\\GorevAtamaProject.Business\\GorevAtamaProject.Business.csproj",
+  "projectFilePath": "C:\\Users\\PATRON\\Desktop\\Project\\GorevAtamaProject\\GorevAtamaProject.Business\\GorevAtamaProject.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PATRON\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.16\\microsoft.data.sqlite.core.5.0.16.nupkg.sha512",
     "C:\\Users\\PATRON\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
